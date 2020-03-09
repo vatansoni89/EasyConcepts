@@ -32,7 +32,7 @@ namespace ConsoleApp7
             Bank b ;
             LotteryAcc l = new LotteryAcc();
             b=l;
-            b.GenAccNo();
+            b.GenAccNo(); //Prints Bank
             Console.ReadKey();
             //// The code provided will print ‘Hello World’ to the console.
             //// Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
